@@ -1,16 +1,4 @@
 # video_player
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/118456066/229697204-bfd38437-4177-4f7a-be41-7b54c491e48d.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/229697214-6797a782-e407-46d3-a3e1-051b2a1f5400.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/229697223-b3e7ad3e-dfaf-4a03-aab0-6d5fe82fc70c.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/229697238-d7a5917b-5187-4f6c-b8d3-2e1f91e94802.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/229697293-6d8ba8a3-fea0-4b23-928a-3319d6f6431d.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/229697533-73aca874-d1f1-407a-a0ff-c0ebc751c204.jpg" width="200px">
